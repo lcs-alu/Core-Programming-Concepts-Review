@@ -14,7 +14,10 @@
  
  */
 // Answer question 3 below
+var piggyBank = 0
 
+// Mowing the neighbor's lawn
+piggyBank += 10
 /*:
  ## Now share your understanding
  

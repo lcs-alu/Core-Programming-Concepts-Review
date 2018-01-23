@@ -18,12 +18,22 @@
  
     You'll need to adjust the value of the constants immedidately below to test your code thoroughly.
  */
-let temperatureInCelsius = 15
+let temperatureInCelsius = 22
 let isRaining = true
 let isSunny = true
 
 // Answer question 5 below
 
+// The if statement of nice weather
+let isNiceWeather =  temperatureInCelsius > 20 && isSunny == true || isRaining == false
+
+
+// The if statement of going for a walk
+if isNiceWeather == true {
+    print("I am going for a walk!")
+} else {
+    print("I'll stay inside today.")
+}
 
 /*:
  ## Now share your understanding
