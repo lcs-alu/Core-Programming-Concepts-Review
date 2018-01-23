@@ -19,6 +19,27 @@
  */
 // Answer question 2 below
 
+// Number of commits
+var numberOfCommits = 1000
+
+// Number of forks
+var numberOfForks = 400
+
+// Year
+let year = 2017
+
+// Month
+let month = 4
+
+// Day
+let day = 15
+
+// The reason of chosing variables or constants
+print("for the number of commits, it's changing bepending on the time. ")
+print("for the number of forks, just like the number of commits, it's changing depending on the time")
+print("for the number of years, it's stable and the base of the question. It doesn't change at the time or depends on the number of other information")
+print("for the number of month, just like the year, it's stable and the base of the question. It doesn't change at the time or depends on the number of other information")
+print("for the number of day, just like the year and the month, it's stable and the base of the question. It doesn't change at the time or depends on the number of other information")
 /*:
  ## Now share your understanding
  
