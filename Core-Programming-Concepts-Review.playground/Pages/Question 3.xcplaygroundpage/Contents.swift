@@ -18,6 +18,15 @@ var piggyBank = 0
 
 // Mowing the neighbor's lawn
 piggyBank += 10
+
+// Doing odd jobs
+piggyBank += 20
+
+// Dinner and a movie
+piggyBank *= 1/2
+
+// A convenience store
+piggyBank -= 3
 /*:
  ## Now share your understanding
  
